@@ -1,0 +1,8 @@
+
+create-react-app my-app "nombre de la app"
+create-react-app my-app sumadora
+
+
+npm install bootstrap --save
+npm install --save reactstrap
+
